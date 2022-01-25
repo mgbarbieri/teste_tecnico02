@@ -63,4 +63,8 @@ class Tabuleiro {
       }
     }
   }
+
+  List<Campo> get campos {
+    return _campos;
+  }
 }
