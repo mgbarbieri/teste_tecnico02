@@ -1,13 +1,15 @@
 import 'package:flutter/material.dart';
 
-class CobrasEscadasApp extends StatefulWidget {
-  const CobrasEscadasApp({Key? key}) : super(key: key);
+class CobrasEscadas extends StatefulWidget {
+  const CobrasEscadas({Key? key}) : super(key: key);
 
   @override
-  _CobrasEscadasAppState createState() => _CobrasEscadasAppState();
+  _CobrasEscadasState createState() => _CobrasEscadasState();
+
+  void jogar(int dado1, int dado2) {}
 }
 
-class _CobrasEscadasAppState extends State<CobrasEscadasApp> {
+class _CobrasEscadasState extends State<CobrasEscadas> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
