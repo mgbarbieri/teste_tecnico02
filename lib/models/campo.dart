@@ -1,13 +1,15 @@
 class Campo {
   final int linha;
   final int coluna;
+  final int numero;
 
-  bool _cobra;
-  bool _escada;
+  final bool _cobra;
+  final bool _escada;
 
-  Campo? _destino;
+  final int? _destino;
 
-  Campo(this.linha, this.coluna, this._cobra, this._escada);
+  Campo(this.linha, this.coluna, this.numero, this._cobra, this._escada,
+      [this._destino]);
 
   bool get cobra {
     return _cobra;
@@ -15,5 +17,9 @@ class Campo {
 
   bool get escada {
     return _escada;
+  }
+
+  int? get destino {
+    return _destino;
   }
 }
