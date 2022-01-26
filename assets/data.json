@@ -1,0 +1,704 @@
+{
+    "Campos": [
+        {
+            "NumeroCampo": 1,
+            "Cor": "0xFFF48FB1",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 2,
+            "Cor": "0xFFFFF9C4",
+            "Escada": true,
+            "Cobra": false,
+            "CampoDestino": 38
+        },
+        {
+            "NumeroCampo": 3,
+            "Cor": "0xFFF57F17",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 4,
+            "Cor": "0xFFCE93D8",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 5,
+            "Cor": "0xFF2196F3",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 6,
+            "Cor": "0xFFFFF176",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 7,
+            "Cor": "0xFFB3E5FC",
+            "Escada": true,
+            "Cobra": false,
+            "CampoDestino": 14
+        },
+        {
+            "NumeroCampo": 8,
+            "Cor": "0xFFFFB74D",
+            "Escada": true,
+            "Cobra": false,
+            "CampoDestino": 31
+        },
+        {
+            "NumeroCampo": 9,
+            "Cor": "0xFFFF7043",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 10,
+            "Cor": "0xFFAED581",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 11,
+            "Cor": "0xFFCE93D8",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 12,
+            "Cor": "0xFFFFB74D",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 13,
+            "Cor": "0xFFB3E5FC",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 14,
+            "Cor": "0xFFFF7043",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 15,
+            "Cor": "0xFFF48FB1",
+            "Escada": true,
+            "Cobra": false,
+            "CampoDestino": 26
+        },
+        {
+            "NumeroCampo": 16,
+            "Cor": "0xFFFFF9C4",
+            "Escada": false,
+            "Cobra": true,
+            "CampoDestino": 6
+        },
+        {
+            "NumeroCampo": 17,
+            "Cor": "0xFFAED581",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 18,
+            "Cor": "0xFFF57F17",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 19,
+            "Cor": "0xFF2196F3",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 20,
+            "Cor": "0xFFFFF176",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 21,
+            "Cor": "0xFFB3E5FC",
+            "Escada": true,
+            "Cobra": false,
+            "CampoDestino": 42
+        },
+        {
+            "NumeroCampo": 22,
+            "Cor": "0xFFFF7043",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 23,
+            "Cor": "0xFFFFF9C4",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 24,
+            "Cor": "0xFFF48FB1",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 25,
+            "Cor": "0xFFAED581",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 26,
+            "Cor": "0xFFF57F17",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 27,
+            "Cor": "0xFF2196F3",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 28,
+            "Cor": "0xFFFFF176",
+            "Escada": true,
+            "Cobra": false,
+            "CampoDestino": 84
+        },
+        {
+            "NumeroCampo": 29,
+            "Cor": "0xFFCE93D8",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 30,
+            "Cor": "0xFFFFB74D",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 31,
+            "Cor": "0xFFFFF176",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 32,
+            "Cor": "0xFF2196F3",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 33,
+            "Cor": "0xFFF57F17",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 34,
+            "Cor": "0xFFAED581",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 35,
+            "Cor": "0xFFFFF9C4",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 36,
+            "Cor": "0xFFB3E5FC",
+            "Escada": true,
+            "Cobra": false,
+            "CampoDestino": 44
+        },
+        {
+            "NumeroCampo": 37,
+            "Cor": "0xFFFF7043",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 38,
+            "Cor": "0xFFF48FB1",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 39,
+            "Cor": "0xFFFFB74D",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 40,
+            "Cor": "0xFFCE93D8",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 41,
+            "Cor": "0xFFF57F17",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 42,
+            "Cor": "0xFFFFF9C4",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 43,
+            "Cor": "0xFFAED581",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 44,
+            "Cor": "0xFF2196F3",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 45,
+            "Cor": "0xFFFFF176",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 46,
+            "Cor": "0xFFFFB74D",
+            "Escada": false,
+            "Cobra": true,
+            "CampoDestino": 25
+        },
+        {
+            "NumeroCampo": 47,
+            "Cor": "0xFFCE93D8",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 48,
+            "Cor": "0xFFFF7043",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 49,
+            "Cor": "0xFFF48FB1",
+            "Escada": false,
+            "Cobra": true,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 50,
+            "Cor": "0xFFB3E5FC",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 51,
+            "Cor": "0xFFCE93D8",
+            "Escada": true,
+            "Cobra": false,
+            "CampoDestino": 67
+        },
+        {
+            "NumeroCampo": 52,
+            "Cor": "0xFFFFB74D",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 53,
+            "Cor": "0xFFB3E5FC",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 54,
+            "Cor": "0xFFFF7043",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 55,
+            "Cor": "0xFFF48FB1",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 56,
+            "Cor": "0xFFFFF9C4",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 57,
+            "Cor": "0xFFAED581",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 58,
+            "Cor": "0xFFF57F17",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 59,
+            "Cor": "0xFF2196F3",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 60,
+            "Cor": "0xFFFFF176",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 61,
+            "Cor": "0xFFCE93D8",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 62,
+            "Cor": "0xFFFFB74D",
+            "Escada": false,
+            "Cobra": true,
+            "CampoDestino": 19
+        },
+        {
+            "NumeroCampo": 63,
+            "Cor": "0xFFB3E5FC",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 64,
+            "Cor": "0xFFFFF9C4",
+            "Escada": false,
+            "Cobra": true,
+            "CampoDestino": 60
+        },
+        {
+            "NumeroCampo": 65,
+            "Cor": "0xFFF48FB1",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 66,
+            "Cor": "0xFFFF7043",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 67,
+            "Cor": "0xFFAED581",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 68,
+            "Cor": "0xFFF57F17",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 69,
+            "Cor": "0xFF2196F3",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 70,
+            "Cor": "0xFFFFF176",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 71,
+            "Cor": "0xFFAED581",
+            "Escada": true,
+            "Cobra": false,
+            "CampoDestino": 91
+        },
+        {
+            "NumeroCampo": 72,
+            "Cor": "0xFFFF7043",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 73,
+            "Cor": "0xFFFFB74D",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 74,
+            "Cor": "0xFFB3E5FC",
+            "Escada": false,
+            "Cobra": true,
+            "CampoDestino": 53
+        },
+        {
+            "NumeroCampo": 75,
+            "Cor": "0xFFFFF176",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 76,
+            "Cor": "0xFFF48FB1",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 77,
+            "Cor": "0xFFCE93D8",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 78,
+            "Cor": "0xFFF57F17",
+            "Escada": true,
+            "Cobra": false,
+            "CampoDestino": 98
+        },
+        {
+            "NumeroCampo": 79,
+            "Cor": "0xFFFFF9C4",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 80,
+            "Cor": "0xFF2196F3",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 81,
+            "Cor": "0xFFF57F17",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 82,
+            "Cor": "0xFFAED581",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 83,
+            "Cor": "0xFFFF7043",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 84,
+            "Cor": "0xFFB3E5FC",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 85,
+            "Cor": "0xFFFFF176",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 86,
+            "Cor": "0xFFF48FB1",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 87,
+            "Cor": "0xFFFFF9C4",
+            "Escada": true,
+            "Cobra": false,
+            "CampoDestino": 94
+        },
+        {
+            "NumeroCampo": 88,
+            "Cor": "0xFFCE93D8",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 89,
+            "Cor": "0xFF2196F3",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 90,
+            "Cor": "0xFFFFB74D",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 91,
+            "Cor": "0xFFB3E5FC",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 92,
+            "Cor": "0xFFFF7043",
+            "Escada": false,
+            "Cobra": true,
+            "CampoDestino": 88
+        },
+        {
+            "NumeroCampo": 93,
+            "Cor": "0xFFFFF9C4",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 94,
+            "Cor": "0xFFF48FB1",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 95,
+            "Cor": "0xFFAED581",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 96,
+            "Cor": "0xFFF57F17",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 97,
+            "Cor": "0xFF2196F3",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 98,
+            "Cor": "0xFFFFF176",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        },
+        {
+            "NumeroCampo": 99,
+            "Cor": "0xFFCE93D8",
+            "Escada": false,
+            "Cobra": true,
+            "CampoDestino": 80
+        },
+        {
+            "NumeroCampo": 100,
+            "Cor": "0xFFFFB74D",
+            "Escada": false,
+            "Cobra": false,
+            "CampoDestino": null
+        }
+    ]
+}

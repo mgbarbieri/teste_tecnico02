@@ -1,15 +1,18 @@
 class Campo {
-  final int linha;
-  final int coluna;
   final int numero;
+  final String cor;
 
   final bool _cobra;
   final bool _escada;
 
   final int? _destino;
 
-  Campo(this.linha, this.coluna, this.numero, this._cobra, this._escada,
-      [this._destino]);
+  Campo(this.numero, this.cor, this._escada, this._cobra, [this._destino]);
+
+  factory Campo.fromJson(Map<String, dynamic> json) {
+    return Campo(json['NumeroCampo'] as int, json['Cor'], json['Escada'],
+        json['Cobra'], json['CampoDestino'] as int?);
+  }
 
   bool get cobra {
     return _cobra;
